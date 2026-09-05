@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+import NavBar from "./components/common/NavBar";
 import ShopList from "./components/ShopList";
 import ShopForm from "./components/ShopForm";
 import { UserContext } from "./context/UserContext";
@@ -50,6 +50,7 @@ const App = () => {
   return (
     <UserContext value={user}>
     <Routes>
+      
       <Route path="/" element={<Layout />}>
         <Route
           index
