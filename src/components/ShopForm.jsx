@@ -101,7 +101,7 @@ const ShopForm = ({ onCreate }) => {
               value={origin}
               onChange={(e) => setOrigin(e.target.value)}
               className="w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-slate-800 outline-none transition focus:border-teal-400 focus:bg-white focus:ring-teal-200/80"
-              placeholder="e.g. Colombia"
+              placeholder="e.g. Kiambu"
             />
           </div>
 
@@ -124,7 +124,7 @@ const ShopForm = ({ onCreate }) => {
               value={price}
               onChange={(e) => setPrice(e.target.value)}
               className="w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-slate-800 outline-none transition focus:border-teal-400 focus:bg-white focus:ring-teal-200/80"
-              placeholder="e.g. 10.00"
+              placeholder="e.g. 10.00 Kshs"
             />
           </div>
 

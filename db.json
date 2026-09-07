@@ -4,21 +4,21 @@
       "id": 1,
       "name": "Coffee R Us",
       "description": "The go to store for coffee",
-      "phone_number": "555-5555"
+      "phone_number": "0720000000",
     }
   ],
   "coffee": [
     {
-      "name": "vfedvc",
-      "description": "everevce",
-      "origin": "cve",
+      "name": "Test Coffee",
+      "description": "The go to store for coffee",
+      "origin": "Kiambu",
       "price": 0,
       "id": 2
     },
     {
-      "name": "cece",
-      "description": "cercewc",
-      "origin": "cec",
+      "name": "Latite",
+      "description": "Latte with vanilla syrup",
+      "origin": "Kiambu",
       "price": 0,
       "id": 3
     }
